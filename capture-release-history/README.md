@@ -7,6 +7,8 @@ Each project lives in its own folder under `ProductToolkit/` with a self-contain
 A Python script that listens to release-confirmation messages in Slack and posts a structured weekly release log to a Confluence page.
 The goal: stop hand-maintaining the release history. Devs and QA already confirm releases in Slack this tool treats those messages as the source of truth and writes the weekly summary to Confluence in a consistent format.
 
+*If Anyone is not looking to spend time in setting up all the different api keys can follow the steps* capture-release-history/projects/01-release-history-tracker/No Code Method.md
+
 ---
 
 ## Why this repo exists
