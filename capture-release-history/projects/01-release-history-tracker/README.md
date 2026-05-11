@@ -6,7 +6,7 @@
 
 | Metric | Before | After |
 |---|---|---|
-| Time to compile weekly release notes | ~2 hours | ~15 minutes |
+| Time to compile weekly release notes | ~1 hours | ~15 minutes |
 | Coverage of shipped items | ~60% (manual recall) | ~95% (channel-scanned) |
 | Format consistency across weeks | Low | High (templated) |
 | Frequency | Ad-hoc, often skipped | Every Monday 9:00 AM IST |
