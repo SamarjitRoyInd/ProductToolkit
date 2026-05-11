@@ -1,0 +1,43 @@
+# Environment / secrets
+.env
+.env.local
+.env.*.local
+*.pem
+credentials.json
+token.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+env/
+ENV/
+.pytest_cache/
+.coverage
+htmlcov/
+*.egg-info/
+
+# Node (in case any project uses it)
+node_modules/
+npm-debug.log*
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Logs and output
+*.log
+logs/
+output/
+generated/
+cache/
+
+# Jupyter
+.ipynb_checkpoints/
